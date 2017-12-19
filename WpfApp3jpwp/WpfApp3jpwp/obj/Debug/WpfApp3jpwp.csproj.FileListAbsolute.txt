@@ -1,0 +1,14 @@
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.csprojResolveAssemblyReference.cache
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\MainWindow.g.cs
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\App.g.cs
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp_MarkupCompile.cache
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp_MarkupCompile.lref
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\bin\Debug\WpfApp3jpwp.exe.config
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\bin\Debug\WpfApp3jpwp.exe
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\bin\Debug\WpfApp3jpwp.pdb
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\MainWindow.baml
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.g.resources
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.Properties.Resources.resources
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.csproj.GenerateResource.Cache
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.exe
+c:\users\krzysiek\documents\visual studio 2017\Projects\WpfApp3jpwp\WpfApp3jpwp\obj\Debug\WpfApp3jpwp.pdb
